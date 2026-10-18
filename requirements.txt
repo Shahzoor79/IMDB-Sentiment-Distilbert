@@ -1,0 +1,12 @@
+# Colab already has torch; install these with: pip install -r requirements.txt
+torch
+transformers>=4.46
+datasets
+evaluate
+accelerate
+scikit-learn
+pandas
+matplotlib
+tabulate
+gradio
+huggingface_hub
